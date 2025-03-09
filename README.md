@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benjmin ZOUKOU</h1>
+<h1 align="center">Hi 👋, I'm Benjamin ZOUKOU</h1>
 <h3 align="center">👀 Passionate about JavaScript development and software engineering.</h3>
 
 - 🔭 I’m currently Studing at the **Faculty of Science and Technology of Toamasina, majoring in Software Engineering**
